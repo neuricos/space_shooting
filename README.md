@@ -1,6 +1,7 @@
 # Space Shooting
 
 **Type**: Game
+
 **Creator**: Zetian Chen
 
 ## Description
