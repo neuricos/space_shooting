@@ -20,11 +20,11 @@
 
 **Shooting Scene**
 
-![Shooting Scene](./img/shooting.jpg)
+![Shooting Scene](./img/shooting_scene.jpg)
 
 **Explosion Scene**
 
-![Explosion Scene](./img/explosion.jpg)
+![Explosion Scene](./img/explosion_scene.jpg)
 
 
 ## Description
